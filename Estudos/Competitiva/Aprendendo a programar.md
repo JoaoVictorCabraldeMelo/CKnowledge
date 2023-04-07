@@ -1,0 +1,7 @@
+- Ter uma estrutura de aprendenzidado
+	- coding roadmap
+-  Vai no coding interview das questoes usando agora usando o leetcode
+- Coloco um tempo para fazer uma questao no maximo 30 min
+- Leia o editorial caso nao consiga a solucao nao a solucao mais otimizada
+- Entender e codar por voce mesmo
+- Focar em topicos
