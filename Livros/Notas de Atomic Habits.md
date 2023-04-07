@@ -63,5 +63,16 @@ Que tipo de pessoas *coloque seu objetivo aqui* ?
 
 Hábitos não sobre ter alguma coisa e sobre se tornar alguma coisa.
 
--- Continuar Capitulo 3
 
+
+Como criar um bom hábito:
+1. Faça ele óbvio
+2. Faça ele atraente
+3. Faça ele fácil
+4. Faça ele satisfátorio
+
+Como acabar um mau hábito:
+1. Faça ele invisível
+2. Faça ele inatrativo
+3. Faça ele díficil
+4. Faça ele não satisfátorio
