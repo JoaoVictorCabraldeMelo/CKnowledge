@@ -1,4 +1,5 @@
+#AI #ReinforcementLearning 
 
-Aprendizagem por reforco
+## Repositórios
 
 - https://github.com/suragnair/alpha-zero-general

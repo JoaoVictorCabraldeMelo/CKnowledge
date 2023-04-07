@@ -1,7 +1,6 @@
-- https://roadmap.sh/computer-science
-- https://roadmap.sh
 
-**Algoritmos**:
+## **Algoritmos**:
+
 - Searching e Sorting Algoritmos -> https://www.geeksforgeeks.org/searching-algorithms/?ref=ghm
 - Greedy Algoritmos -> https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=shm#greedy
 - Dynamic Programming -> https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=shm#dp
