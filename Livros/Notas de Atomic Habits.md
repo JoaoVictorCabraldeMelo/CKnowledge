@@ -76,3 +76,5 @@ Como acabar um mau hábito:
 2. Faça ele inatrativo
 3. Faça ele díficil
 4. Faça ele não satisfátorio
+
+-- Faça ele óbvio
