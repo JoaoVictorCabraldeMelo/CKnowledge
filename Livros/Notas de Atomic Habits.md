@@ -78,3 +78,22 @@ Como acabar um mau hábito:
 4. Faça ele não satisfátorio
 
 -- Faça ele óbvio
+
+## Apontar e falar
+
+1. Escrever todos os seus habitos em seguida colocar:
+	- + Positivo
+	- - Negativo
+	- = Neutro
+Ex:
+	- Acordar =
+	- Desligar o alarme = 
+	- Checar seu celular -
+	- Ir ao banheiro +
+	- Pesar-se +
+	- Tomar um banho + 
+	- Escovar os dentes +
+	- Passar o fio dental + 
+	- Passar desodorante +
+	- Pendurar a toalha para secar =
+
