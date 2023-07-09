@@ -97,3 +97,15 @@ Ex:
 	- Passar desodorante +
 	- Pendurar a toalha para secar =
 
+
+- Pequenas mudancas no contexto pode fazer grandes mudancas de comportamento
+- Faca os gatilhos dos bons habitos obvios para o seu ambiente 
+- Graduamene seus habitos ficam associados com um unico gatilho no contexto 
+
+- conservar engergia 
+-  obter agua e comida 
+- conectar e me ligar com os outros
+- procurar amor e se reproduzir
+- conseguir aceitacao social e aprovacao 
+- reduzir incerteza 
+- conquistar status e privilegios
